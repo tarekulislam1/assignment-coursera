@@ -1,1 +1,15 @@
-
+<!DOCTYPE HTML>
+<html>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> 
+		ORGANIC - VEGETABLE GARDENING
+</title>
+<head>
+	<link rel="stylesheet" href="style.css"/>
+<link rel="stylesheet" href="responsive.css"/>		
+</head>
+<body>	
+				<div>Hello All</div>
+</body>
+</html>
